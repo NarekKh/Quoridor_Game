@@ -14,7 +14,6 @@ This project focuses on creating an AI agent capable of playing Quoridor effecti
 ## AI Methodology
 1. **Algorithms Used**:
    - **Minimax Algorithm**: Evaluates potential moves to optimize the AI's strategy while minimizing losses, enhanced with alpha-beta pruning to reduce computational overhead.
-   - **Monte Carlo Tree Search (MCTS)**: Simulates multiple game scenarios to determine the best wall placements and paths.
 
 2. **Heuristics and Adaptation**:
    - Dynamic evaluation of game states using a heuristic function.
